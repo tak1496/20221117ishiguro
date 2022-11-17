@@ -1,0 +1,12 @@
+﻿問題①
+
+解答
+①Laravel
+②Eloquent
+③Model
+④CREATE
+⑤READ
+⑥UPDATE
+⑦マイグレーション
+⑧シーディング
+⑨ファクトリ
